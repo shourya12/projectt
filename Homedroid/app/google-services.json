@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462982218358",
+    "firebase_url": "https://homedroid-e8aa0.firebaseio.com",
+    "project_id": "homedroid-e8aa0",
+    "storage_bucket": "homedroid-e8aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462982218358:android:d74286553956ebfe329557",
+        "android_client_info": {
+          "package_name": "firebase.google.com.homedroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462982218358-p3qm05m7rub3rmeo89f3vfh2ss7a47uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.google.com.homedroid",
+            "certificate_hash": "5b03a2cd6f9d961684c5c76afc9446ac5400d4e2"
+          }
+        },
+        {
+          "client_id": "462982218358-86ikl6tr0puu594urm2rv3al8n5519e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAj4g8tEFQQvnVM5w6HlXZ1Ir6KgZDQ_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462982218358-86ikl6tr0puu594urm2rv3al8n5519e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

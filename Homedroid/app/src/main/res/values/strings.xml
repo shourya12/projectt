@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homedroid</string>
+    <string name="homedroid_technology">Homedroid Technology</string>
+    <string name="todo">TODO</string>
+    <string name="add_home">Add Home</string>
+    <string name="existing_home">Existing Home</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="textview">TextView</string>
+
+</resources>
